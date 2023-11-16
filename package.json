@@ -7,7 +7,6 @@
     "build": "vite build"
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "^2.5",
     "monaco-editor": "^0.44",
     "vite": "^4"
   }
